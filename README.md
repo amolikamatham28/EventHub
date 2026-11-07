@@ -1,4 +1,4 @@
-# event_ease
+# EventHub
 
 A new Flutter project.
 
